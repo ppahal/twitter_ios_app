@@ -1,3 +1,5 @@
+# Project 3 - Twitter IOS
+
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
@@ -24,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 http://g.recordit.co/PBoyuzfu8n.gif
 
-# Project 3 - Twitter IOS
+# Twitter - Part I
 
 Twitter is a basic twitter app to read your tweets.
 
