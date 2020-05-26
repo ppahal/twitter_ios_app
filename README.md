@@ -24,15 +24,14 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/PBoyuzfu8n.gif
+<img src='http://g.recordit.co/PBoyuzfu8n.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 # Twitter - Part I
 
 Twitter is a basic twitter app to read your tweets.
 
 Time spent: 5 hours spent in total
-
-http://g.recordit.co/PBoyuzfu8n.gif
 
 ## User Stories
 
@@ -53,4 +52,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/dB94Lg5C8M.gif
+<img src='http://g.recordit.co/dB94Lg5C8M.gif' title= 'Video Walkthrough' width='' alt='Video Walkthrough' />
